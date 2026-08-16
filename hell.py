@@ -17,7 +17,7 @@ class DataValidator:
     def get_errors(self):
         return self.errors
 
-# Use the validator
+# Use the validato
 validator = DataValidator()
 
 # Notice: we don't pass self, just the email
